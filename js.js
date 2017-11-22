@@ -1,10 +1,10 @@
 /*状态事件*/
 
 function status1(){
-      document.getElementById('qizi').src="/black.png";
+      document.getElementById('qizi').src="black.png";
    }
 function status2(){
-      document.getElementById('qizi').src="/white.png";
+      document.getElementById('qizi').src="white.png";
    }
 
 /* 控件事件 */
